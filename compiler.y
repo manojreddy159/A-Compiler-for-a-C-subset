@@ -1,6 +1,6 @@
 %{
 #pragma GCC diagnostic ignored "-Wwrite-strings"
-#include "part5.h"
+#include "compiler.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
