@@ -1,9 +1,9 @@
 %{
 
 
-#include "part5.h"
+#include "compiler.h"
 
-#include "g.tab.h"
+#include "compiler.tab.h"
 
 %}
 %option yylineno	
